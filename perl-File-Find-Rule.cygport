@@ -1,0 +1,10 @@
+CPAN_AUTHOR=rclamp
+inherit perl
+
+NAME="perl-File-Find-Rule"
+VERSION=0.33
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl friendlier File::Find interface"
+DESCRIPTION="File::Find::Rule is a friendlier interface to File::Find.  It
+allows you to build rules which specify the desired files and directories."
